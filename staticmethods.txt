@@ -1,0 +1,17 @@
+In instance methods we use the keyword called as self 
+
+def instance_method(self):
+   pass 
+
+@classmethod
+In class method we use the keyword called as cls 
+@classmethod
+def class_method(cls):
+  pass 
+
+
+@staticmethod
+def staticmethod():
+  pass
+
+
